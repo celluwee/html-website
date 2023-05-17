@@ -1,0 +1,13 @@
+.about-image {
+   width: 430px;
+   height: 500px;
+   float: right;
+   margin: 0px 300px 0px 0px;
+ }
+.text {
+	margin-top: 50px;
+}
+
+body {
+background-color: #FF6347;
+}
